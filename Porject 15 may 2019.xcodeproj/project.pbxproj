@@ -14,6 +14,7 @@
 		099967DC228BB041005BC1A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 099967DA228BB041005BC1A5 /* LaunchScreen.storyboard */; };
 		099967E4228BB058005BC1A5 /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 099967E3228BB058005BC1A5 /* LearnerModel.swift */; };
 		09996806228BC4D5005BC1A5 /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09996805228BC4D5005BC1A5 /* FacilitatorModel.swift */; };
+		09996808228BC99B005BC1A5 /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09996807228BC99B005BC1A5 /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		099967DD228BB041005BC1A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		099967E3228BB058005BC1A5 /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
 		09996805228BC4D5005BC1A5 /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		09996807228BC99B005BC1A5 /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				099967D5228BB040005BC1A5 /* Main.storyboard */,
 				099967E3228BB058005BC1A5 /* LearnerModel.swift */,
 				09996805228BC4D5005BC1A5 /* FacilitatorModel.swift */,
+				09996807228BC99B005BC1A5 /* MenteeModel.swift */,
 				099967D8228BB041005BC1A5 /* Assets.xcassets */,
 				099967DA228BB041005BC1A5 /* LaunchScreen.storyboard */,
 				099967DD228BB041005BC1A5 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				09996808228BC99B005BC1A5 /* MenteeModel.swift in Sources */,
 				09996806228BC4D5005BC1A5 /* FacilitatorModel.swift in Sources */,
 				099967D4228BB040005BC1A5 /* ViewController.swift in Sources */,
 				099967E4228BB058005BC1A5 /* LearnerModel.swift in Sources */,
