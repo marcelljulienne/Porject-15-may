@@ -15,4 +15,5 @@ class MenteeModel: LearnerModel{
         self.menteeDomain = menteeDomain
         super.init(learnerName: menteeName, learnerAge: menteeAge, learnerHeight: menteeHeight, learnerImageProfile: menteeImageProfile)
     }
+
 }
